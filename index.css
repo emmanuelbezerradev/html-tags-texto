@@ -1,20 +1,32 @@
 h1{
     color: red;
     background-color: black;
-    width: 500x;
+    width: 300px;
     height: 100px;
+    font-size: 100px;
     text-align: center;
 }
 
+h2{
+    text-align: center;
+}
+
+h3{
+    text-align: right;
+    text-shadow: 5px 5px 8px red;
+}
 p{
     color: red;
 }
 
 .texto-azul{
     color: blue;
+    font-weight: bold;
 }
 
 .texto-2{
     color: green;
 }
+
+
 
