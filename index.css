@@ -1,0 +1,19 @@
+h1{
+    color: red;
+    background-color: black;
+    width: 500x;
+    height: 100px;
+    text-align: center;
+}
+
+p{
+    color: red;
+}
+
+.texto-azul{
+    color: blue;
+}
+
+.texto-2{
+    color: green;
+}
